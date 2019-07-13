@@ -1,0 +1,17 @@
+{
+    "filters": {
+        "zipcode": ["01200", "13780", "37160", "94390"],
+        "category": "2",
+        "price": {
+            "min": 0,
+            "max": 500000
+        },
+        "keywords": ["moteur", "filtre"]
+    },
+    "limit": 5,
+    "headers": {
+        "User-Agent": "Mozilla/5.0 Firefox/62.0",
+        "Accept": "*/*",
+        "DNT": "1"
+    }
+}
